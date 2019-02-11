@@ -35,6 +35,15 @@ padding-right:0px!important;
 }
 .myMastHeader
 {
-margin-top:-100px!important;
+
+}
+.myMastHeaderHeading
+{
+    font-size: 2.3rem;
+}
+.myMastHeaderSubHeading
+{
+  font-size: 1.4rem;
+
 }
 }
