@@ -31,8 +31,8 @@ padding-right:0px!important;
 .myHeader
 {
 
-padding-top: calc(5rem + 72px);
-    padding-bottom: 12rem;
+padding-top: calc(5rem + 72px)!important;
+    padding-bottom: 12rem!important;
 }
 .myMastHeader
 {
