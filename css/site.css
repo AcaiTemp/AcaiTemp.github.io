@@ -39,11 +39,11 @@ padding-right:0px!important;
 }
 .myMastHeaderHeading
 {
-    font-size: 2.3rem;
+    font-size: 2.3rem!important;
 }
 .myMastHeaderSubHeading
 {
-  font-size: 1.4rem;
+  font-size: 1.4rem!important;
 
 }
 }
