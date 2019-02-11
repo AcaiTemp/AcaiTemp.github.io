@@ -19,6 +19,15 @@ font-size:2rem!important;
 .p-5{ padding-left: 0px !important;
 padding-right: 0px !important;
 }}
+@media screen and (max-width: 991)
+{
+.myHeader
+{
+
+padding-top: calc(5rem + 72px)!important;
+    padding-bottom: 20rem!important;
+}
+}
 @media screen and (max-width: 421px) {
 .myHeaders
 {
